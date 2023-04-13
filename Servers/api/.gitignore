@@ -1,0 +1,14 @@
+
+**/fichier
+.env
+.eslintcache
+.vscode/extensions.json
+
+**/config/default.json
+
+
+geotab.json
+
+servers/api/core
+node_modules
+server_node_modules.tar.gz

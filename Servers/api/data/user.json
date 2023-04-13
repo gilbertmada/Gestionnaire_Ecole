@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Sabrinah",
+        "lastName": "Fenosoa",
+        "username": "gibert",
+        "email": "gilbertinemilien@gmail.com",
+        "password": "gilbertmada",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Haja",
+        "lastName": "Juna",
+        "username": "juna",
+        "email": "hajajunarasolofonirina@gmail.com",
+        "password": "juna",
+        "role": "PROF"
+    }
+]
