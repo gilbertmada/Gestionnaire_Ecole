@@ -1,9 +1,9 @@
-# Frontend CLICAR rent car administration
+# Frontend SCHOOL rent car administration
 
 ## dependencies
 
 - Node v12.x or earlier
-- CLICAR backend API
+- SCHOOL backend API
 - yarn
 
 ## configurations
@@ -21,7 +21,3 @@ Use the following commands to run the server:
 - sudo kill -9 $(sudo lsof -t -i:4000)
 - sudo kill -9 $(sudo lsof -t -i:3000)
 
-# Login SogeComerce
-
-- Utilisateur: mdulieu
-- Mdp: Marine21

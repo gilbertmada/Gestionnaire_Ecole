@@ -30,18 +30,7 @@ export const parseError = (
         
       }
     }
-    // rootStore.updateSnackBar(
-    //   true,
-    //   "Une erreur s'est produite. Veuillez réessayer plus tard!",
-    //   'error',
-    //   errorDuration
-    // );
-    // return;
+
   }
-  // rootStore.updateSnackBar(
-  //   true,
-  //   control  || "Une erreur s'est produite. Veuillez réessayer plus tard!",
-  //   'error',
-  //   errorDuration
-  // );
+
 };
